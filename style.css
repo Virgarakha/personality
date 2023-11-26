@@ -42,14 +42,14 @@ html {
 .headi2 h1 {
     color: white;
     float: right;
-    margin-right: 190px;
+    margin-right: 180px;
     margin-top: 10px;
 }
 
 .headi2 p{
     color: white;
     float: right;
-    margin-right: 174px;
+    margin-right: 164px;
     margin-top: -21px;
 }
 
@@ -101,7 +101,7 @@ html {
 
 .is2 img {
     height: 150px;
-    margin-left: 24px;
+    margin-left: 20px;
     margin-top: 50px;
 }
 
